@@ -1,2 +1,0 @@
-# ammccarthy.github.io
-hello
